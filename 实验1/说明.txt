@@ -1,0 +1,4 @@
+“Bootloader”是Bootloader工程，通过这个工程可以实现通过串口把“user_FlashApp”和“user_SRAMApp”程序烧录到单片机中，并运行。
+
+“user_FlashApp”的bin文件是烧录到FLASH中的，并运行FLASH中的程序
+“user_SRAMApp”的bin文件是烧录到SRAM中的，并运行SRAM中的程序

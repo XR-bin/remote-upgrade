@@ -1,0 +1,8 @@
+按照 “Keil5配置bin文件生成.png”图片步骤配置。
+
+“bin文件生成脚本”文件夹放的是bin文件生成脚本程序，将里面的脚步程序放在安装Keil5时的文件中
+
+
+
+配置信息：
+D:\study\Keil_v5\Arm\ARMCC\bin\fromelf.exe   --bin -o  ..\..\Output\STM32F103ZET6.bin ..\..\Output\STM32F103ZET6.axf

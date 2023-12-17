@@ -1,0 +1,4 @@
+“Bootloader”是Bootloader工程，通过这个工程可以实现通过串口把“User1_Code”和“User2_Code”程序烧录到单片机中，并运行。
+
+“User1_Code”的bin文件是烧录到FLASH中的，并运行FLASH中的程序
+“uUser2_Code”的bin文件是烧录到FLASH中的，并运行FLASH中的程序
